@@ -1,0 +1,12 @@
+===== FILE ORGANIZER REPORT =====
+
+Images: 1 file(s)
+Documents: 1 file(s)
+Text: 1 file(s)
+Audio: 1 file(s)
+Videos: 1 file(s)
+Archives: 0 file(s)
+Others: 1 file(s)
+---------------------------------
+Total organized files: 5
+=================================
