@@ -6,7 +6,7 @@ A Python-based file organizer that automatically sorts files into separate folde
 
 The objective of this project is to automate the repetitive task of organizing files into appropriate folders.
 
-This project was developed as **Task 3 – Task Automation with Python Scripts** for the **CodeAlpha Python Programming Internship**.
+This project was developed as **Task – Task Automation with Python Scripts** for the **CodeAlpha Python Programming Internship**.
 
 ## ✨ Features
 
